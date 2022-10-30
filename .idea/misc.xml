@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/black_background.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/contact.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/ic_baseline_money_24.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/layout1_money_background.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/layout1_money_icon_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/red_margin.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/drawable/round_corners.xml" value="0.2265" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjects/ProiectAndroidDAC-2022/app/src/main/res/layout/contact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_card_info_handler.xml" value="0.25" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_existing_account_handler.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_home_handler.xml" value="0.1" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/activity_new_account_handler.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/contact.xml" value="0.1711065573770492" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/magazin.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/security_page_1.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/security_page_2.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/security_page_3.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/security_page_4.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/RYZEN 7/AndroidStudioProjectsProiectDac/ProiectAndroidDAC-2022/app/src/main/res/layout/test.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/black_background.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/ic_baseline_money_24.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/layout1_money_background.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/layout1_money_icon_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/red_margin.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/drawable/round_corners.xml" value="0.1" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/security_page_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/security_page_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/security_page_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/security_page_4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ajugu/AndroidStudioProjects/ProiectDAC/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

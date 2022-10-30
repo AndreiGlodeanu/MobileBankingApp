@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="411dp"
+        android:layout_height="172dp"
+        android:background="@color/purple_700"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.304"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="357dp"
+        android:layout_height="98dp"
+        android:layout_marginBottom="344dp"
+        android:background="@color/contLayout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.537"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="-1dp"
+            android:fontFamily="sans-serif-condensed"
+            android:padding="25px"
+            android:text="Creditul nou sau refinantare de la alte banci cu rate fixe"
+            android:textColor="@color/graySeparator"
+            android:textSize="15dp"></TextView>
+
+        <TextView
+            android:id="@+id/textViewCreditulGeorge"
+            android:layout_width="191dp"
+            android:layout_height="57dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="148dp"
+            android:fontFamily="sans-serif-condensed"
+            android:padding="30px"
+            android:text="Creditul George"
+            android:textColor="@color/white"
+            android:textSize="25dp"></TextView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="355dp"
+        android:layout_height="197dp"
+        android:background="@color/blue1"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="92dp">
+
+        <Button
+            android:id="@+id/buttonCreditulGeorge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

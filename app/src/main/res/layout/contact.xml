@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        tools:context="contact"
+        tools:visibility="visible">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="414dp"
+            android:layout_height="497dp"
+            android:background="@drawable/round_corners"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0">
+
+            <Button
+                android:id="@+id/buttonSunaLainfoBcr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="-4dp"
+                android:layout_marginBottom="328dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:icon="@android:drawable/stat_sys_phone_call"
+                tools:text="Suna la info BCR" />
+
+            <Button
+                android:id="@+id/buttonTrimiteEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="261dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:icon="@android:drawable/sym_action_email"
+                tools:text="trimite e-mail" />
+
+            <Button
+                android:id="@+id/buttonLocatiiSucursaleSibancomate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:alpha="@dimen/cardview_default_elevation"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:icon="@android:drawable/ic_menu_mylocation"
+                tools:text="Locatii sucursale si bancomate" />
+
+            <Button
+                android:id="@+id/buttonMesaje"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="-2dp"
+                android:layout_marginBottom="390dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:icon="@android:drawable/stat_notify_chat"
+                tools:text="Mesaje" />
+
+            <TextView
+                android:id="@+id/textViewRetelesociale"
+                android:layout_width="160dp"
+                android:layout_height="21dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="245dp"
+                android:layout_marginBottom="231dp"
+                android:text="Retele sociale"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="@color/white" />
+
+
+
+            <Button
+                android:id="@+id/buttonFacebook"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="291dp"
+                android:layout_marginBottom="186dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                tools:text="Facebook" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="115dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="299dp"
+                android:layout_marginBottom="136dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                tools:text="Twitter" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="122dp"
+                android:layout_height="48dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="293dp"
+                android:layout_marginBottom="91dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+                tools:text="Linkedln" />
+
+            <Button
+                android:id="@+id/buttonInstagram"
+                android:layout_width="122dp"
+                android:layout_height="48dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="288dp"
+                android:layout_marginBottom="42dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+                tools:text="Instagram" />
+
+
+
+            <Button
+                android:id="@+id/buttonYoutube"
+                android:layout_width="122dp"
+                android:layout_height="48dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="285dp"
+                android:layout_marginBottom="-7dp"
+                android:backgroundTint="@color/contLayout"
+                android:text="Button"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+                tools:text="Youtube" />
+
+        </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/textViewContact"
+        android:layout_width="122dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="260dp"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="2px"
+        android:text="CONTACT"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+    </TextView>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginBottom="532dp"
+        android:background="#45FFFFFF"
+        android:backgroundTint="@color/graySeparator"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Contact Center" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
